@@ -1,0 +1,8 @@
+= MapReduce
+
+* Yang Juven (yangjuven@gmail.com)
+* Nov 29, 2010
+
+== Description
+
+Implement simple MapReduce in Python using python-native lists, tuples, queues, and threading.
